@@ -15,7 +15,12 @@ A sophisticated LLM-based conversational system will extract information from re
 
 > Install required libraries
 1. Run following command in cmd .
-* python -m pip install -r requirements.txt 
+* python -m pip install -r requirements.txt
+
+> Start streamlit app
+1. Run following command in cmd .
+* streamlit run DocGPT.py
+
 
 ## Limitations in Version 1
 
