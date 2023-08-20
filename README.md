@@ -1,6 +1,22 @@
 # DocGPT
 A sophisticated LLM-based conversational system will extract information from research paper PDFs to create a helpful assistant for researchers during brainstorming sessions.
 
+> Clone Project 
+1. Open a new empty directory .
+2. Run following commands in cmd .
+* git clone https://github.com/sankarapusamhith/DocGPT.git
+* cd DocGPT
+
+> Create Virtual Environment
+1. Run following commands in cmd .
+* pip install virtualenv 
+* python -m venv env
+* env\Scripts\activate
+
+> Install required libraries
+1. Run following command in cmd .
+* python -m pip install -r requirements.txt 
+
 ## Limitations in Version 1
 
 - Only PDF format supported 
