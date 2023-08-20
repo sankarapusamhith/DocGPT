@@ -1,0 +1,12 @@
+langchain 
+pypdf 
+huggingface_hub 
+aleph_alpha_client 
+sentence_transformers 
+faiss-cpu 
+accelerate 
+pypdfium2 
+unstructured
+streamlit
+pymupdf
+frontend

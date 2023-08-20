@@ -1,0 +1,27 @@
+Topic,Question,Actual Answer
+naive_bayes,What are Naive Bayes Classifiers ?,Naive Bayes classifiers are a collection of classification algorithms based on Bayes� Theorem
+naive_bayes,What are Bernoulli naive bayes used for ?,document classification tasks
+naive_bayes,What is Bayes' theorem ?,It finds the probability of an event occurring given the probability of another event that has already occurred
+naive_bayes,What is a Response Vector ?,Response vector contains the value of class variable(prediction or output) for each row of feature matrix
+naive_bayes,What is posteriori probability ?,"P(A|B) is a posteriori probability of B, i.e. probability of event after evidence is seen"
+naive_bayes,What is another name for a gaussian distribution?,Normal Distribution
+naive_bayes,"If each distribution can be independently estimated as a one dimensional distribution , what is it called as ?",The decoupling of the class conditional feature distributions
+naive_bayes,Does Naive Bayes assume that each feature makes an independent contribution to the outcome ?,Yes
+naive_bayes,What can be preferred to solve spam filtering?,Naive bayes classifiers
+naive_bayes,What is the shape of the curve if data is symmetric about the mean of the feature values ?,bell shaped curve
+linear_regression,What is regression ?,It predicts the continuous output variables based on the independent input variable
+linear_regression,What is classification ?,It predicts the class of the dataset based on the independent input variable
+linear_regression,What is linearity?,The independent and dependent variables have a linear relationship with one another
+linear_regression,What is the objective of Linear Regression ?,Finding the coefficients of a linear equation that best fits the training data
+linear_regression,What is the cost function ?,The cost function or the loss function is nothing but the error or difference between the predicted value and the true value Y
+linear_regression,Applications of linear regression?,"Linear regression is used in many different fields, including finance, economics, and psychology, to understand and predict the behavior of a particular variable"
+projects,What is mobile number of Shrey ?,9427829339
+projects,What is Email of manaswini? ,cs20resch11007@iith.ac.in 
+projects,Who is mentor for Object Detection ?,Athul
+projects,What is image generation with gans ?,Generate synthetic images using generative adversarial networks 
+projects,Who is the Faculty for Rishab ?,Srijith
+projects,Who is the faculty dealing with hyperledger sawtooth blockchain platform ?,Sathya Peri
+projects,What is the project title for Mentor having email as ai22mtech12005@iith.ac.in?,Emotion Detection in Video
+projects,What is the Referecnce mentioned in Llm Based Conversational System for Knowledge Extraction from Documents ?,https://github.Com/hwchase17/langchain
+projects,What is the project area for mentor having phone number as 8096374755,Computer Vision
+projects,Which project area should be capable of extracting information from pdf documents,Natural Language Processing
